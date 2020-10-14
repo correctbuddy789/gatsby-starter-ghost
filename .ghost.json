@@ -1,7 +1,7 @@
 {
   "development": {
-    "apiUrl": "xlorxify.herokuapp.com",
-    "contentApiKey": "d07fd88a8549557298398e40f6"
+    "apiUrl": "http://xlorxify.herokuapp.com",
+    "contentApiKey": "http://d07fd88a8549557298398e40f6"
   },
   "production": {
     "apiUrl": "xlorxify.herokuapp.com",
